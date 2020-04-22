@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* css code*/
+body{
+    Background-color:#fff;
+	color=#250;
+}
+/*.reverse {
+	Background-color:#250;
+	color=#fff;
+}
+h2
+{
+	Background-image:url(../2-flower-wallpaper.preview.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	padding-left:50px;
+}
+h2 +p {
+	width:500px;
+}
